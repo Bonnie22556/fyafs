@@ -1,0 +1,44 @@
+{
+	"format_version": "1.21.11",
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "fnafs:block/jotstick_texture"
+	},
+	"elements": [
+		{
+			"from": [6.5, 4, 6.5],
+			"to": [9.5, 7, 9.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7.5, 0, 8.5]},
+			"faces": {
+				"north": {"uv": [0, 0, 3, 3], "texture": "#0"},
+				"east": {"uv": [0, 3, 3, 6], "texture": "#0"},
+				"south": {"uv": [3, 0, 6, 3], "texture": "#0"},
+				"west": {"uv": [3, 3, 6, 6], "texture": "#0"},
+				"up": {"uv": [3, 9, 0, 6], "texture": "#0"},
+				"down": {"uv": [9, 0, 6, 3], "texture": "#0"}
+			}
+		},
+		{
+			"from": [7, 0, 7],
+			"to": [9, 4, 9],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 0, 8]},
+			"faces": {
+				"north": {"uv": [3, 6, 5, 10], "texture": "#0"},
+				"east": {"uv": [6, 3, 8, 7], "texture": "#0"},
+				"south": {"uv": [5, 7, 7, 11], "texture": "#0"},
+				"west": {"uv": [7, 7, 9, 11], "texture": "#0"},
+				"up": {"uv": [10, 5, 8, 3], "texture": "#0"},
+				"down": {"uv": [10, 5, 8, 7], "texture": "#0"}
+			}
+		}
+	],
+	"groups": [
+		{
+			"name": "root",
+			"origin": [8, 0, 8],
+			"scope": 0,
+			"color": 0,
+			"children": [0, 1]
+		}
+	]
+}

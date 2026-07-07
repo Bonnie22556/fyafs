@@ -1,0 +1,22 @@
+{
+	"format_version": "1.21.11",
+	"credit": "Made with Blockbench",
+	"texture_size": [48, 48],
+	"textures": {
+		"0": "fnafs:block/wire_3"
+	},
+	"elements": [
+		{
+			"from": [-16, -16, 8.01],
+			"to": [32, 32, 8.01],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"east": {"uv": [0, 0, 0, 16], "texture": "#0"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"west": {"uv": [0, 0, 0, 16], "texture": "#0"},
+				"up": {"uv": [16, 0, 0, 0], "texture": "#0"},
+				"down": {"uv": [16, 0, 0, 0], "texture": "#0"}
+			}
+		}
+	]
+}

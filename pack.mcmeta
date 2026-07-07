@@ -1,0 +1,15 @@
+{
+	"pack": {
+		"pack_format": 69,
+		"description": "Five Nights at Furry Shodka",
+		"min_format": [
+			69,
+			0
+		],
+		"max_format": [
+			9999,
+			0
+		]
+	},
+	"id": "fnafs"
+}
