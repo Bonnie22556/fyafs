@@ -1,0 +1,24 @@
+{
+	"format_version": "1.21.11",
+	"credit": "Made with Blockbench",
+	"texture_size": [64, 64],
+	"textures": {
+		"0": "fnafs:block/exit_door",
+		"particle": "fnafs:block/exit_door"
+	},
+	"elements": [
+		{
+			"from": [0, -16, 7],
+			"to": [8, 32, 9],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 0, 7]},
+			"faces": {
+				"north": {"uv": [4.75, 0, 6.75, 12], "texture": "#0"},
+				"east": {"uv": [7.25, 0, 6.75, 12], "texture": "#0"},
+				"south": {"uv": [6.75, 0, 4.75, 12], "texture": "#0"},
+				"west": {"uv": [6.75, 0, 7.25, 12], "texture": "#0"},
+				"up": {"uv": [6.75, 12, 4.75, 12.5], "texture": "#0"},
+				"down": {"uv": [6.75, 12, 4.75, 12.5], "texture": "#0"}
+			}
+		}
+	]
+}

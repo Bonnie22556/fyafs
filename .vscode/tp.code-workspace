@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../../saves/fyafs/datapacks/fyafs"
+		}
+	],
+	"settings": {
+			"files.exclude": {
+			"**/.vscode": true,
+			"**/autopush.bat": true,
+			"**/LICENSE": true,
+			"**/.gitignore": true,
+			"**/README.md": true,
+			"*.zip": true,
+			}
+	}
+}
