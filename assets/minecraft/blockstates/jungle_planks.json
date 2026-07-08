@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "": [
+      { "model": "minecraft:block/jungle_planks"},
+      { "model": "minecraft:block/jungle_planks_alt1" },
+      { "model": "minecraft:block/jungle_planks_alt2" },
+      { "model": "minecraft:block/jungle_planks_alt3" }
+    ]
+  }
+}

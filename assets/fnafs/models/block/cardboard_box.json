@@ -1,0 +1,24 @@
+{
+	"format_version": "1.21.11",
+	"credit": "Made with Blockbench",
+	"texture_size": [32, 32],
+	"textures": {
+		"0": "fnafs:block/cardboard_box",
+		"particle": "fnafs:block/cardboard_box"
+	},
+	"elements": [
+		{
+			"from": [1, 0, 3],
+			"to": [15, 9, 13],
+			"rotation": {"angle": 0, "axis": "y", "origin": [1, 0, 3]},
+			"faces": {
+				"north": {"uv": [0, 5, 7, 9.5], "texture": "#0"},
+				"east": {"uv": [7, 0, 12, 4.5], "texture": "#0"},
+				"south": {"uv": [0, 5, 7, 9.5], "texture": "#0"},
+				"west": {"uv": [7, 0, 12, 4.5], "texture": "#0"},
+				"up": {"uv": [7, 5, 0, 0], "texture": "#0"},
+				"down": {"uv": [7, 0, 0, 5], "texture": "#0"}
+			}
+		}
+	]
+}

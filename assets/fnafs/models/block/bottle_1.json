@@ -1,0 +1,46 @@
+{
+	"format_version": "1.21.11",
+	"credit": "Made with Blockbench",
+	"texture_size": [10, 8],
+	"textures": {
+		"0": "fnafs:block/bottle_1",
+		"particle": "fnafs:block/bottle_1"
+	},
+	"elements": [
+		{
+			"from": [6, 0, 6],
+			"to": [10, 8, 10],
+			"rotation": {"angle": 0, "axis": "y", "origin": [6, 0, 6]},
+			"faces": {
+				"north": {"uv": [0, 0, 6.4, 16], "texture": "#0"},
+				"east": {"uv": [0, 0, 6.4, 16], "texture": "#0"},
+				"south": {"uv": [0, 0, 6.4, 16], "texture": "#0"},
+				"west": {"uv": [0, 0, 6.4, 16], "texture": "#0"},
+				"up": {"uv": [12.8, 8, 6.4, 0], "texture": "#0"},
+				"down": {"uv": [12.8, 8, 6.4, 16], "texture": "#0"}
+			}
+		},
+		{
+			"from": [7, 8, 7],
+			"to": [9, 12, 9],
+			"rotation": {"angle": 0, "axis": "y", "origin": [6, 8, 6]},
+			"faces": {
+				"north": {"uv": [12.8, 0, 16, 8], "texture": "#0"},
+				"east": {"uv": [12.8, 0, 16, 8], "texture": "#0"},
+				"south": {"uv": [12.8, 0, 16, 8], "texture": "#0"},
+				"west": {"uv": [12.8, 0, 16, 8], "texture": "#0"},
+				"up": {"uv": [11.2, 6, 8, 2], "texture": "#0"},
+				"down": {"uv": [16, 12, 12.8, 16], "texture": "#0"}
+			}
+		}
+	],
+	"groups": [
+		{
+			"name": "root",
+			"origin": [6, 0, 6],
+			"scope": 0,
+			"color": 0,
+			"children": [0, 1]
+		}
+	]
+}
