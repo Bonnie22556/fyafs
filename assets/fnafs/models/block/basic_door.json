@@ -1,0 +1,24 @@
+{
+	"format_version": "1.21.11",
+	"credit": "Made with Blockbench",
+	"texture_size": [64, 64],
+	"textures": {
+		"0": "fnafs:block/basic_door",
+		"particle": "fnafs:block/basic_door"
+	},
+	"elements": [
+		{
+			"from": [0, -16, 7],
+			"to": [16, 32, 9],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 0, 7]},
+			"faces": {
+				"north": {"uv": [0, 0, 4, 12], "texture": "#0"},
+				"east": {"uv": [4, 0, 4.5, 12], "texture": "#0"},
+				"south": {"uv": [4, 0, 0, 12], "texture": "#0"},
+				"west": {"uv": [4.5, 0, 4, 12], "texture": "#0"},
+				"up": {"uv": [4, 12.5, 0, 12], "texture": "#0"},
+				"down": {"uv": [4, 12, 0, 12.5], "texture": "#0"}
+			}
+		}
+	]
+}

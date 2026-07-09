@@ -1,0 +1,33 @@
+{
+	"format_version": "1.21.11",
+	"credit": "Made with Blockbench",
+	"texture_size": [20, 16],
+	"textures": {
+		"0": "fnafs:block/fuse_box",
+		"particle": "fnafs:block/fuse_box"
+	},
+	"elements": [
+		{
+			"from": [4, 2, 8],
+			"to": [12, 14, 8],
+			"rotation": {"angle": 0, "axis": "y", "origin": [4, 2, 7]},
+			"faces": {
+				"north": {"uv": [6.4, 0, 12.8, 12], "texture": "#0"},
+				"east": {"uv": [12.8, 0, 12.8, 12], "texture": "#0"},
+				"south": {"uv": [6.4, 0, 12.8, 12], "texture": "#0"},
+				"west": {"uv": [12.8, 0, 12.8, 12], "texture": "#0"},
+				"up": {"uv": [12.8, 12, 6.4, 12], "texture": "#0"},
+				"down": {"uv": [12.8, 12, 6.4, 12], "texture": "#0"}
+			}
+		}
+	],
+	"groups": [
+		{
+			"name": "root",
+			"origin": [4, 2, 8],
+			"scope": 0,
+			"color": 0,
+			"children": [0]
+		}
+	]
+}
